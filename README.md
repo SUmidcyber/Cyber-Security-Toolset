@@ -1,13 +1,8 @@
-# Advanced Log Analysis and Cyber Security Toolset
-
 ![PowerShell](https://img.shields.io/badge/PowerShell-v5.1+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama aracı. Bu araç, Windows sistemlerde güvenlik olaylarını analiz etmek, şüpheli aktiviteleri tespit etmek ve sistem güvenliğini artırmak için tasarlanmıştır.
-
-
-
 
 ## Özellikler
 
@@ -31,3 +26,7 @@ PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama ar
 ## PowerShell scriptini çalıştırın:
 
       .\SecurityAnalysisTool.ps1
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9f158a44-47a3-4357-8fa8-72eb25803575" width="500" alt="Ekran Görüntüsü">
+</div>
