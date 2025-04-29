@@ -6,6 +6,9 @@
 
 PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama aracı. Bu araç, Windows sistemlerde güvenlik olaylarını analiz etmek, şüpheli aktiviteleri tespit etmek ve sistem güvenliğini artırmak için tasarlanmıştır.
 
+
+
+
 ## Özellikler
 
 - **Sistem Hata Logları Analizi**: Sistem olay günlüklerindeki hataları analiz eder
@@ -27,5 +30,4 @@ PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama ar
 
 ## PowerShell scriptini çalıştırın:
 
-      cd security-analysis-tool
       .\SecurityAnalysisTool.ps1
