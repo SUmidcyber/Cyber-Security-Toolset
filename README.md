@@ -23,4 +23,4 @@ PowerShell ile geliştirilmiş kapsamlı log analiz ve siber güvenlik tarama ar
 
 1. Bu repoyu klonlayın veya ZIP olarak indirin:
    ```bash
-   git clone https://github.com/sizin-kullanici-adiniz/security-analysis-tool.git
+   git clone https://github.com/SUmidcyber/Cyber-Security-Toolset.git
